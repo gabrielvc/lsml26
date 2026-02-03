@@ -8,3 +8,4 @@ lightning
 jupyter
 tensorboard
 diffusers
+ipywidgets
