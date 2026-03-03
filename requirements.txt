@@ -10,3 +10,4 @@ tensorboard
 diffusers
 ipywidgets
 mnist1d
+normflows
